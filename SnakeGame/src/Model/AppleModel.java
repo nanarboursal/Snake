@@ -9,7 +9,6 @@ import Model.*;
  * Purpose: Keep track of apple coordinations, apple generation and collisions
  */
 
-
 public class AppleModel {
 
 	/**
